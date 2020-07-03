@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Salvation
+## Author: Salvation
+## Version: 1.0
+## DefaultState: Enabled
+
+main.lua
